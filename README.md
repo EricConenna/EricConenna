@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricConenna
-- 👀 I’m interested in star data analysis, globular cluster dynamics, instrumentation and more!
-- 🌱 I’m currently learning Physics and Astronomy.
+- 👀 I’m interested in all kinds of data related things and more!
+- 🌱 I like to learn Physics.
 
 <!---
 EricConenna/EricConenna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
